@@ -1,10 +1,12 @@
 from mpi4py import MPI
+import sys
 
+_from = sys.argv
 comm = MPI.COMM_WORLD
 me = comm.Get_rank()
 size = comm.Get_size()
 print("Hi from <"+str(me)+">")
-if me == 0:
+if me == _from:
     buf = ["coucou"]
     print("I'm <"+str(me)+">: send " + buf[0])
     for i in range(1, size):
