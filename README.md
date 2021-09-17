@@ -8,3 +8,9 @@ Il contient les algorithmes pour l'envoi de message sous différente formes :
  - Une diffusion par anneau, dans un sens et dans deux sens
  - Une diffusion par hypercube
  - Une diffusion par "scatter"
+
+
+# Auteurs
+
+Yoan AMELOOT
+Martin FOLLIET
