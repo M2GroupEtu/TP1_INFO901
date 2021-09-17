@@ -1,7 +1,7 @@
 # TP1_INFO901
 
-#### TP 1 pour le cours d'info 901, Algorithmes distribués.
-#### Language : Python
+>TP 1 pour le cours d'info 901, Algorithmes distribués.
+>Language : Python
 
 Il contient les algorithmes pour l'envoi de message sous différente formes :
  - Une diffusion centralisée
