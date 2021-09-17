@@ -13,4 +13,4 @@ Il contient les algorithmes pour l'envoi de message sous différente formes :
 # Auteurs
 
 Yoan AMELOOT
-Martin FOLLIET
+<br>Martin FOLLIET
